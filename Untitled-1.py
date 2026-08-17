@@ -4,3 +4,5 @@ for i in range (9):
     print(i)
 
 print("kkkk")
+
+print(2+2)
